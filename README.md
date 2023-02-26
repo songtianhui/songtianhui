@@ -1,4 +1,10 @@
+Updated at 2023/2/26
+
 - 👋 Hi, I’m @songtianhui
+
+- I'm a postgraduate student at Nanjing University, under the supervision of Prof. [Limin Wang](https://wanglimin.github.io/).
+
+- My research interests include Computer Vision and Deep Learning, mainly in Visual Object Tracking (VOT).
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=songtianhui)](https://github.com/anuraghazra/github-readme-stats)
 
