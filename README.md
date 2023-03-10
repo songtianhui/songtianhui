@@ -4,7 +4,7 @@ Updated at 2023/2/26
 
 - I'm a postgraduate student at Nanjing University, under the supervision of Prof. [Limin Wang](https://wanglimin.github.io/).
 
-- My research interests include Computer Vision and Deep Learning, mainly in Visual Object Tracking (VOT).
+- My research interests include Computer Vision and Deep Learning, currently focusing on in Visual Object Tracking (VOT).
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=songtianhui&show_icons=true)
